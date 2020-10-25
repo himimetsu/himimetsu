@@ -2,11 +2,21 @@
 ### My name is Vlad Ivanov and I'm an aspiring front-end developer.
 
 # My projects :computer:
-- [Fancy-Weather](https://weather-himimetsu.netlify.app/) - Прогноз погоды.
-- [Song-Bird](https://songbird-himimetsu.netlify.app/) - Приложение викторина для распознавания птиц по их голосам.
-- [Movie-Search](https://movie-search-himimetsu.netlify.app/) - Приложение отображающее информацию о фильмах по запросу пользователя.  
-- [Virtual-Keyboard](https://virtual-keyboard-himimetsu.netlify.app/) - Виртуальная клавиатура.
-- [English-for-kids](https://english-for-the-little-ones.netlify.app/) - Приложение для изучения английских слов детьми.
+- ## Fancy Weather - Прогноз погоды.  
+  - #### [DEMO](https://weather-himimetsu.netlify.app/)  
+  - #### [CODE](https://github.com/himimetsu/fancy-weather)
+- ## Song Bird - Приложение викторина для распознавания птиц по их голосам.
+  - #### [DEMO](https://songbird-himimetsu.netlify.app/)  
+  - #### [CODE](https://github.com/himimetsu/songbird)
+- ## Movie Search - Приложение отображающее информацию о фильмах по запросу пользователя.  
+  - #### [DEMO](https://movie-search-himimetsu.netlify.app/)  
+  - #### [CODE](https://github.com/himimetsu/movie-search)
+- ## Virtual Keyboard - Виртуальная клавиатура.
+  - #### [DEMO](https://virtual-keyboard-himimetsu.netlify.app/)
+  - #### [CODE](https://github.com/himimetsu/virtual-keyboard)
+- ## English for kids - Приложение для изучения английских слов детьми.
+  - #### [DEMO](https://english-for-the-little-ones.netlify.app/)
+  - #### [CODE](https://github.com/himimetsu/english-for-kids)
 
 # Technology Stack :hammer:
 - Code
