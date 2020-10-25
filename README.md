@@ -1,14 +1,14 @@
 # Hello, friends! 👋
-My name is Vlad Ivanov and I'm an aspiring front-end developer.
+### My name is Vlad Ivanov and I'm an aspiring front-end developer.
 
-# My projects
+# My projects :computer:
 - [Fancy-Weather](https://weather-himimetsu.netlify.app/) - Прогноз погоды.
-- [Song-Bird](https://songbird-himimetsu.netlify.app/) - Одностраничное приложение, викторина для распознавания птиц по их голосам.
-- [Movie-Search](https://movie-search-himimetsu.netlify.app/) - Одностраничное приложение, отображающее информацию о фильмах по запросу пользователя.  
+- [Song-Bird](https://songbird-himimetsu.netlify.app/) - Приложение викторина для распознавания птиц по их голосам.
+- [Movie-Search](https://movie-search-himimetsu.netlify.app/) - Приложение отображающее информацию о фильмах по запросу пользователя.  
 - [Virtual-Keyboard](https://virtual-keyboard-himimetsu.netlify.app/) - Виртуальная клавиатура.
-- [English-for-kids](https://english-for-the-little-ones.netlify.app/) - приложение для изучения английских слов детьми.
+- [English-for-kids](https://english-for-the-little-ones.netlify.app/) - Приложение для изучения английских слов детьми.
 
-# Technology Stack
+# Technology Stack :hammer:
 - Code
   - ![code](https://img.shields.io/badge/-JavaScript-F5D033)
   - ![code](https://img.shields.io/badge/-TypeScript-3471F9)
