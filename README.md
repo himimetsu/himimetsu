@@ -14,6 +14,9 @@
 - ## Virtual Keyboard - Виртуальная клавиатура.
   - #### [DEMO](https://virtual-keyboard-himimetsu.netlify.app/)
   - #### [CODE](https://github.com/himimetsu/virtual-keyboard)
+- ## Calculator - Калькулятор
+  -  #### [DEMO](https://calculator-himimetsu.netlify.app/)
+  -  #### [CODE](https://github.com/himimetsu/calculator/)
 - ## English for kids - Приложение для изучения английских слов детьми.
   - #### [DEMO](https://english-for-the-little-ones.netlify.app/)
   - #### [CODE](https://github.com/himimetsu/english-for-kids)
